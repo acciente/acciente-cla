@@ -1,0 +1,1 @@
+This folder contains an account verification file for each GitHub user with an accepted CLA.
