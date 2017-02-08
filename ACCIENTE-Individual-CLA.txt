@@ -5,9 +5,9 @@ Version 2017.02.07 (for printing please use a 11pt monospaced font)
 An Individual Contributor License Agreement ("Agreement") is required to
 establish and define the intellectual property rights granted in connection
 with Contributions (defined below) from any person or entity (the
-"Contributor") to Acciente, LLC. (“Acciente”) for inclusion in any of the
-products owned or managed by Acciente (the “Work”). This Agreement is for
-your protection as a Contributor as well as Acciente’s. This Agreement does
+"Contributor") to Acciente, LLC. ("Acciente") for inclusion in any of the
+products owned or managed by Acciente (the "Work"). This Agreement is for
+your protection as a Contributor as well as Acciente's. This Agreement does
 not alter your rights to use your own Contributions for other purposes. By
 executing this Agreement, you accept and agree to the following terms and
 conditions for any past, current, or future Contributions (defined below)
